@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #4D77FF;
+    overflow: hidden;
+  }
+  
+  #cyclopes {
+    width: 300px;
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    transform: translateX(-50%);
+  }
+  
+  #meat {
+    width: 100px;
+    position: absolute;
+  }
